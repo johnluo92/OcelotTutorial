@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prasad\\Articles\\OcelotDemo\\OcelotTutorial\\TeacherService\\TeacherService.csproj": {}
+    "/Users/johnluo/Documents/GitHub/OcelotTutorial/OcelotTutorial/TeacherService/TeacherService.csproj": {}
   },
   "projects": {
-    "D:\\Prasad\\Articles\\OcelotDemo\\OcelotTutorial\\TeacherService\\TeacherService.csproj": {
+    "/Users/johnluo/Documents/GitHub/OcelotTutorial/OcelotTutorial/TeacherService/TeacherService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prasad\\Articles\\OcelotDemo\\OcelotTutorial\\TeacherService\\TeacherService.csproj",
+        "projectUniqueName": "/Users/johnluo/Documents/GitHub/OcelotTutorial/OcelotTutorial/TeacherService/TeacherService.csproj",
         "projectName": "TeacherService",
-        "projectPath": "D:\\Prasad\\Articles\\OcelotDemo\\OcelotTutorial\\TeacherService\\TeacherService.csproj",
-        "packagesPath": "C:\\Users\\raget\\.nuget\\packages\\",
-        "outputPath": "D:\\Prasad\\Articles\\OcelotDemo\\OcelotTutorial\\TeacherService\\obj\\",
+        "projectPath": "/Users/johnluo/Documents/GitHub/OcelotTutorial/OcelotTutorial/TeacherService/TeacherService.csproj",
+        "packagesPath": "/Users/johnluo/.nuget/packages/",
+        "outputPath": "/Users/johnluo/Documents/GitHub/OcelotTutorial/OcelotTutorial/TeacherService/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\raget\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/johnluo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,28 +49,11 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.0, 6.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.2, 6.0.2]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.0, 6.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.0, 6.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -85,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.2.22153.17\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

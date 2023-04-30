@@ -1,4 +1,4 @@
-﻿{
+{
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
@@ -10,8 +10,7 @@
   "profiles": {
     "OcelotGateway": {
       "commandName": "Project",
-      "dotnetRunMessages": true,
-      "launchBrowser": true,     
+      "launchBrowser": true,
       "applicationUrl": "http://localhost:5003",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"

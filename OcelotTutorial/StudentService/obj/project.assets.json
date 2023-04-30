@@ -224,31 +224,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\raget\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/johnluo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prasad\\Articles\\OcelotDemo\\OcelotTutorial\\StudentService\\StudentService.csproj",
+      "projectUniqueName": "/Users/johnluo/Documents/GitHub/OcelotTutorial/OcelotTutorial/StudentService/StudentService.csproj",
       "projectName": "StudentService",
-      "projectPath": "D:\\Prasad\\Articles\\OcelotDemo\\OcelotTutorial\\StudentService\\StudentService.csproj",
-      "packagesPath": "C:\\Users\\raget\\.nuget\\packages\\",
-      "outputPath": "D:\\Prasad\\Articles\\OcelotDemo\\OcelotTutorial\\StudentService\\obj\\",
+      "projectPath": "/Users/johnluo/Documents/GitHub/OcelotTutorial/OcelotTutorial/StudentService/StudentService.csproj",
+      "packagesPath": "/Users/johnluo/.nuget/packages/",
+      "outputPath": "/Users/johnluo/Documents/GitHub/OcelotTutorial/OcelotTutorial/StudentService/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\raget\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/johnluo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -278,28 +271,11 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.0, 6.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.2, 6.0.2]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.0, 6.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.0, 6.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -308,7 +284,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.2.22153.17\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

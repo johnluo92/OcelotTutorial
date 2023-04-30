@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentService/Model/Student.cs">
+    <Files>
+      <File FileName="OcelotGateway/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="OcelotGateway/ocelot.json" Line="1" Column="1" />
+      <File FileName="TeacherService/Controllers/TeacherController.cs" Line="1" Column="1" />
+      <File FileName="TeacherService/Services/ITeacherRepository.cs" Line="1" Column="1" />
+      <File FileName="TeacherService/Services/TeacherRepository.cs" Line="1" Column="1" />
+      <File FileName="TeacherService/Program.cs" Line="12" Column="69" />
+      <File FileName="StudentService/Model/Student.cs" Line="10" Column="1" />
+      <File FileName="StudentService/Service/IStudentRepository.cs" Line="1" Column="1" />
+      <File FileName="StudentService/Service/StudentRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OcelotTutorial" expanded="True">
+            <Node name="OcelotGateway" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="StudentService" expanded="True">
+              <Node name="Model" expanded="True">
+                <Node name="Student.cs" selected="True" />
+              </Node>
+              <Node name="Service" expanded="True" />
+            </Node>
+            <Node name="TeacherService" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{EF1E5DAE-5768-4BFF-B4DA-F5F6944B7B75}" ItemName="OcelotGateway" ConfigurationId="Default" />
+        <StartupItem ItemId="{C840403E-D9F4-494F-910F-B591503C2438}" ItemName="StudentService" ConfigurationId="Default" />
+        <StartupItem ItemId="{1908EA49-AA8E-4F4F-8C7E-C1B5B69F229B}" ItemName="TeacherService" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.TeacherService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.OcelotGateway PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StudentService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
